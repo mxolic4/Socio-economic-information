@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Main_application_form.resources
+C:\Users\user\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Socio_economic_information.resources
